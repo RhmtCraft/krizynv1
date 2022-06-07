@@ -13,12 +13,12 @@
 
 gc1 = 'https://instagram.com/rhmt.editz'
 gc2 = 'https://youtube.com/channel/UCc4lZy1KEXwc7jaxOU3vqLw'
-gc3 = '-'
+gc3 = 'https://chat.whatsapp.com/KQZNBa0kpoh2VUjoq0S7EQ'
 global.linkGC = ['https://chat.whatsapp.com/EJgLF3zHijIFrG1QQIX3Yl', 'https://chat.whatsapp.com/KQZNBa0kpoh2VUjoq0S7EQ'] // ganti jadi group lu
-global.owner = ['6283867149253','6285713822876'] // Put your number here //owner eval
+global.owner = ['6283867149253','6285713822876','6287878528616','62895802600692','6285875531636','6285803313083'] // Put your number here //owner eval
 global.kontak = ['6283867149253'] //Ketika ada yang ngetik #owner
 global.mods = ['0'] // Want some help?
-global.prems = ['6283867149253','6285713822876'] // Premium user has unlimited limit
+global.prems = ['6283867149253','6285713822876','6287878528616','62895802600692','6285875531636','6285803313083'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // nama: 'https://website'
   hardianto: 'https://hardianto-chan.herokuapp.com',
